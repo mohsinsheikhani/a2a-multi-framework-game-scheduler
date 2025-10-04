@@ -46,6 +46,8 @@ This application contains four specialized agents that communicate via HTTP endp
 
 Each agent runs independently and exposes A2A-compliant APIs for seamless inter-agent communication.
 
+<img width="2039" height="1291" alt="AI Agents - Mohsin Sheikhani" src="https://github.com/user-attachments/assets/58f4dd8c-3619-4e59-bb8a-1870bfb6d9f3" />
+
 ## Setup and Deployment
 
 ### Prerequisites
